@@ -1,7 +1,7 @@
 # Philosophers - 42 school project - validated at 125%
 ![score](philo.png)
 This project is a training to multi-threads/multi-process programming with the use of mutex and semaphore.  
-It contains 3 different programs simulating a twist of the famous Dining Philosophers problem, all with the same basic rules.  
+It contains 2 different programs simulating a twist of the famous Dining Philosophers problem, all with the same basic rules.  
 This project is also a good lesson in C optimization as we need to save every bit of CPU usage we can to ensure the survival of our philosophers.
 
 **philo:** multi-threads and use of mutex  
